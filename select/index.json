@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "さよならの今日に",
   "base_artist": "あいみょん",
-  "createdAt": "2026-03-15T20:42:28.394166Z",
+  "createdAt": "2026-03-22T01:44:05.866980Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,15 @@
       "artist": "あいみょん",
       "has_synced": false,
       "path": "select/pl_01_さよならの今日に_あいみょん.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "さよならの今日に",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/localdb_01_さよならの今日に_あいみょん.lrc",
+      "repo_name": "9CdJOV2DPWU"
     }
   ]
 }
